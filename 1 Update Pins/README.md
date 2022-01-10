@@ -2,7 +2,7 @@
 
 1. On you landing page, click "Customize your pins"
 
-![1](./GitHubTips/1.png)
+![1](./1.png)
 
 2. Select up to 6 projects.
 
