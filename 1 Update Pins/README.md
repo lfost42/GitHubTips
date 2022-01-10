@@ -1,3 +1,2 @@
-# Update Pins
+# Update Pins on Landing Page
 
-Testing ...
