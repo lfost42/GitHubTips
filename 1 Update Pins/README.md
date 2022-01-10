@@ -2,7 +2,9 @@
 
 1. On you landing page, click "Customize your pins"
 
-![1](./1.png){:height="50%" width="50%"}
+{:refdef: style="width: 100px"}
+![1](./1.png)
+{: refdef}
 
 2. Select up to 6 projects.
 
