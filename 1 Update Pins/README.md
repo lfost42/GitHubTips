@@ -6,7 +6,7 @@
 
 2. Select up to 6 projects.
 
-![2](./2.png)<img src=https://github.com/lfost42/GitHubTips/blob/main/1%20Update%20Pins/2.png" width="100">
+![2]<img src=https://github.com/lfost42/GitHubTips/blob/main/1%20Update%20Pins/2.png" width="100">
 
 3. Rearrange projects using the 6 dots in the upper-right corner of each project.
 
