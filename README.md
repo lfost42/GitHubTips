@@ -8,3 +8,10 @@
  
 3. Add image to "Social Preview"
 ![3](./3UploadImage.gif)
+
+
+BEFORE
+![before](./before.png)
+
+AFTER
+![after](./after.png)
