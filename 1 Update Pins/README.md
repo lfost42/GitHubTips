@@ -8,7 +8,7 @@
 
 2. Select up to 6 projects.
 
-![2](./2.png){:height="25%" width="25%"}
+![2](./2.png){:height="36px" width="36px"}
 
 3. Rearrange projects using the 6 dots in the upper-right corner of each project.
 
